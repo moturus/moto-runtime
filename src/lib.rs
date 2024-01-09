@@ -1,5 +1,4 @@
 #![no_std]
-#![feature(ip_in_core)]
 #![feature(linkage)]
 #![feature(waker_getters)]
 #![allow(elided_lifetimes_in_paths)]
